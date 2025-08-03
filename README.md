@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <!-- Typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+Md:Sakib+ul+Nasib;Learning+Frontend+Web+Development;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+Md:Asgor+Ali;Learning+Frontend+Web+Development;&center=true&width=500&height=50">
 </h1>
 <p align="center">
   <img src="https://i.ibb.co/dJXSKKZ2/banner.jpg" alt="Cover Image" width="100%" />
@@ -15,20 +15,20 @@
 
 ## 👋 About Me
 
-I'm Sakib ul Nasib, an enthusiastic learner currently diving into *Frontend Web Development*.  
+I'm Md Asgor Ali, an enthusiastic learner currently diving into *Frontend Web Development*.  
 I’m passionate about creating clean, user-friendly websites and always eager to learn more.
 I have a strong passionfor learning & implementing new web technologies and standards.📚 Currently I am exploring and learning NEXT.JS
 
-- 📫 *Email:* abcd.sakib50@gmail.com
+- 📫 *Email:* asgor542@gmail.com
 - 🌐 *Portfolio:* https://sakibnasib.netlify.app/
 - 📍 *Location:*Rajshahi ,Bangladesh
 ---
 ## 🌐 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/19WzR6cmzD/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801643606692)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakibnasib)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abcd.sakib50@gamil.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/?_rdc=1&_rdr#)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801795007280)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-asgor-ali)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asgor542@gmail.com)
 
 ## 🚀 What I'm Learning
 
