@@ -7,10 +7,6 @@
   <img src="https://i.ibb.co/dJXSKKZ2/banner.jpg" alt="Cover Image" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*U3MZRXMlvTKBfON-ITxfgQ.png" alt="Developer Banner" width="100%" />
-
-</p>
 
 ---
 
