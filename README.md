@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7c3b21b63385e1bc907f1c19.gif" alt="Coding animation" width="500"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*U3MZRXMlvTKBfON-ITxfgQ.png" alt="Developer Banner" width="100%" />
+
 </p>
 
 ---
