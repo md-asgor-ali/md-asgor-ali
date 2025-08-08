@@ -1,7 +1,7 @@
 
 
 <!-- Banner Image -->
- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7c3b21b63385e1bc907f1c19.gif" alt="Coding animation" width="500"/>
+ <img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
 
 <h1 align="center">Hi, I'm Asgor Ali 👋</h1>
 <h3 align="center">💻 MERN Stack Developer | Passionate about building dynamic web applications</h3>
